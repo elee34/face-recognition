@@ -1,4 +1,3 @@
 # face-recognition
-1. Clone this repo
-2. Run npm install
-3. Run npm start
+Try the face recognition app
+https://face-detect-smart-app.herokuapp.com/
